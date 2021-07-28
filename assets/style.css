@@ -53,6 +53,7 @@ h3 {
 .search {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     align-content: center;
     max-width: fit-content;
     min-width: 300px;
